@@ -1,4 +1,4 @@
-package behavioral.observer;
+package behavioral.observer.youtube;
 
 public class YoutubeEvent {
     private EventType eventType;

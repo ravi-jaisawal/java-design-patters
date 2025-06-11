@@ -1,4 +1,4 @@
-package behavioral.observer;
+package behavioral.observer.youtube;
 
 public class YoutubeSubscriber implements Observer{
     private String name;

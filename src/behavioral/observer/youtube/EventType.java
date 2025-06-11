@@ -1,4 +1,4 @@
-package behavioral.observer;
+package behavioral.observer.youtube;
 
 public enum EventType {
     NEW_VIDEO,

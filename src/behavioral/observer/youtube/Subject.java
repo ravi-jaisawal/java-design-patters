@@ -1,4 +1,4 @@
-package behavioral.observer;
+package behavioral.observer.youtube;
 
 public interface Subject {
     void addSubscriber(Observer observer);
